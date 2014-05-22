@@ -5,8 +5,15 @@ MU2X is just a simple command line tool used to send online media content to XBM
 
 ##Features
 
-* Play videos
-* Add a video to queue
+* Play video 
+* Add video to queue
+
+
+##Examples
+
+`./mu2x.py "http://vimeo.com/93541129"`
+
+`./mu2x.py --add "https://www.youtube.com/watch?v=P0zPiS2_qJg"`
 
 ##Supported content
 
